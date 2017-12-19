@@ -1,0 +1,13 @@
+name: University_Choices
+title: University_Choices
+username:
+account: lynxvol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 250172
+bundleId: 1142278
+url: https://lynxvol.shinyapps.io/University_Choices/
+when: 1513665004.2936
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: mydeck
