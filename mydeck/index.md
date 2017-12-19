@@ -82,5 +82,6 @@ Contains information such as Major and Salary Information. We use this informati
 
 ![App](./Map.png)
 
-Link to Shiny Application: www.myShinyApp.awesome.my
+Link to Shiny Application: https://lynxvol.shinyapps.io/University_Choices/  
+Link to GitHub: https://github.com/lynxvol/University_choices
 
