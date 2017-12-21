@@ -1,4 +1,4 @@
-University Choices
+United States University Choices
 ========================================================
 author: Sarah Amalyna, Wei Seong Lee, Min Hua Lee
 date: 
